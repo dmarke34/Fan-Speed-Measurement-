@@ -78,8 +78,6 @@ Example output:
 12:45:10 04/21/21 Temp = 26 C = 78 F RPM = 1350 dc = 60
 NEC_Code = 0xA8
 
-yaml
-Copy code
 
 ---
 
